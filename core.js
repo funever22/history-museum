@@ -1,6 +1,6 @@
 (function(root){
 'use strict';
-const galleries=[['goguryeo','고구려','🏹'],['baekje','백제','🌸'],['silla','신라','👑'],['gaya','가야','⚒️'],['goryeo','고려','🏺'],['joseon','조선','📜']];
+const galleries=[['goguryeo','고구려','🏹'],['baekje','백제','🌸'],['silla','신라','👑'],['gaya','가야','⚒️'],['balhae','발해','🌊'],['goryeo','고려','🏺'],['joseon','조선','📜']];
 const fields=[
  ['title','유물 이름','이 유물의 이름은 무엇인가요?',80],
  ['museum','만난 장소','어느 박물관에서 만났나요?',100],
