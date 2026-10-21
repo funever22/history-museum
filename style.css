@@ -3,3 +3,5 @@
 #classQr{padding:20px;background:white;width:fit-content;margin:15px 0}#classQr svg{display:block;width:210px;height:210px}.roster-row{display:grid;grid-template-columns:1fr 95px auto;gap:12px;align-items:center;border-bottom:1px solid var(--line);padding:12px 0}.roster-row label{margin:0}.roster-row input{margin:0}.pin-result{font-size:22px;font-weight:800;letter-spacing:4px}.roster-scroll{max-height:420px;overflow:auto}@media(max-width:600px){.roster-row{grid-template-columns:1fr 70px}.roster-row button{grid-column:1/-1}.roster-row input{padding:8px}}
 
 #photoPreview.drag-active{outline:3px dashed #245747;background:#e5f2e8}#screenCapture{margin-top:10px;width:100%}#capturedImage{display:block;max-width:100%;max-height:65vh;object-fit:contain;margin:16px auto}
+
+.comment-text{white-space:pre-wrap;overflow-wrap:anywhere}#visitorQr svg{width:210px;height:210px}#commentsDialog{width:min(92vw,760px)}#commentsList{max-height:50vh;overflow:auto}#visitorCredentials{overflow-wrap:anywhere}
